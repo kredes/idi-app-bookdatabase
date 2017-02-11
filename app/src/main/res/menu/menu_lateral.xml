@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        android:title="Inici" />
+
+    <group
+        android:id="@+id/menu_opciones" >
+
+        <item
+            android:id="@+id/menu_crear_libro"
+            android:icon="@drawable/ic_plus"
+            android:title="Afegir llibre"/>
+
+        <item
+            android:id="@+id/menu_ordenar_categoria"
+            android:icon="@drawable/ic_ordenar"
+            android:title="Ordenar per categoria" />
+
+        <item
+            android:id="@+id/menu_buscar_titulo"
+            android:icon="@drawable/ic_buscar"
+            android:title="Cercar llibre per títol" />
+
+        <item
+            android:id="@+id/menu_buscar"
+            android:icon="@drawable/ic_buscar"
+            android:title="Cercar llibre per autor" />
+
+    </group>
+
+        <item
+            android:id="@+id/menu_help"
+            android:icon="@drawable/ic_help"
+            android:title="Help" />
+
+        <item
+            android:id="@+id/menu_about"
+            android:icon="@drawable/ic_about"
+            android:title="About" />
+
+</menu>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_titulos">
+        <item>Afegir un llibre</item>
+        <item>Eliminar un llibre</item>
+        <item>Modificar la valoració d\'un llibre</item>
+        <item>Veure els llibres ordenats per categoria</item>
+        <item>Cercar un llibre per títol</item>
+        <item>Cercar un llibre per autor</item>
+    </string-array>
+
+    <string-array name="help_contenidos">
+        <item>1. A qualsevol vista, obre el menú lateral\n2. Selecciona l\'opció \"Afegir llibre\"\n3. Omple tots el camps que es demanen\n4. Pressiona el botó \"Accepta\"\n
+        </item>
+
+        <item>1. A qualsevol de les vistes que mostren una llista de llibres, fes click a l\'icona dels tres punts\n2. Selecciona l\'opció \"Eliminar\"\n3. Confirma que vols eliminar el llibre\n
+        </item>
+
+        <item>1. A qualsevol de les vistes que mostren una llista de llibres, fes click a l\'icona dels tres punts\n2. Selecciona l\'opció \"Modificar valoració\"\n3. Selecciona la nova valoració i pressiona el botó \"Acceptar\"\n
+        </item>
+
+        <item>1. A qualsevol vista, obre el menú lateral\n2. Selecciona l\'opció "Ordenar per categoria"\n
+        </item>
+
+        <item>1. A qualsevol vista, obre el menú lateral\n2. Selecciona l\'opció \"Cercar llibre per títol\"\n3. Introdueix el títol (complet o part d\'ell)\n4. Pressiona l\'icona de la lupa al teclat o la fletxeta a la barra de cerca\n
+        </item>
+
+        <item>1. A la vista principal, obre el menú lateral\n2. Selecciona l\'opció \"Cercar llibre per autor\"\n3. Introdueix l\'autor (complet o part d\'ell)\n4. Pressiona l\'icona de la lupa al teclat o la fletxeta a la barra de cerca\n
+        </item>
+    </string-array>
+</resources>
